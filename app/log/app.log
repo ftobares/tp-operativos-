@@ -1,0 +1,8 @@
+
+[DEBUG] 19:53:26:322 App/(8070:8070): Socket de conexión con la Comanda creado con éxito.
+[ERROR] 19:53:26:323 App/(8070:8070): No se pudo establecer la conexión con la Comanda.
+[ERROR] 19:53:26:323 App/(8070:8070): No se pudo inicializar la app correctamente. Hubo un error al conectarse al módulo Comanda.
+[INFO] 19:53:26:323 App/(8070:8070): Longitud lista: 0
+[DEBUG] 20:20:42:927 App/(9412:9412): Socket de conexión con la Comanda creado con éxito.
+[ERROR] 20:20:42:927 App/(9412:9412): No se pudo establecer la conexión con la Comanda.
+[ERROR] 20:20:42:927 App/(9412:9412): No se pudo inicializar la app correctamente. Hubo un error al conectarse al módulo Comanda.
